@@ -1,2 +1,3 @@
 1724611172s annex.addunlocked true
 1724611173s annex.dotfiles true
+1724611173s annex.largefiles largerthan=500kb
