@@ -204,6 +204,10 @@ measured.
 
 - Result :: [[attachment:plot.pdf]]
 
+** [2024-11-25 lun.] Evaluation of Phase Demodulation on TempestSDR :data:plot:
+
+Credits goes to Robin Gerzaguet which evaluated the phase demodulation on a signal emanating from an HDMI cable recorded using [[https://github.com/JuliaTelecom/TempestSDR.jl][TempestSDR.jl]].
+
 * Bibliography
 
 #+print_bibliography:
